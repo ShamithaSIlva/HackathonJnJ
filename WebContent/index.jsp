@@ -26,7 +26,6 @@ canvas {
   <button class="tablinks" onclick="openCity(event, 'Engineering')">Engineering</button>
   
   <button class="tablinks" onclick="openCity(event, 'Mathematics')">Mathematics</button>
-  <button class="tablinks" onclick="openCity(event, 'Games')">Games</button>
 </div>
 
 <div id="Home" class="tabcontent">
