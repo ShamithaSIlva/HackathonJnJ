@@ -15,7 +15,7 @@ canvas {
 <script src="js/jquery-2.2.4.min.js"></script>
 <script src="js/main.js"></script>
 </head>
-<body background="images/STEM-01-1.png" style="opacity :0.5;">
+<body class="bodyClass">
 
 <h1>HAShSTEM(Health Awareness for School children with Science, Technology ,Engineering & Mathematics)</h1>
 <div class="tab">
