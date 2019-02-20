@@ -136,7 +136,7 @@ To prevent dehydration, encourage children to drink fluid regularly during physi
   <h3>Mathematics</h3>
   
   <p> <a href="view/Addition.jsp">Addition</a></p>
-  <p> <a href="view/Mathematics.jsp">Substraction</a></p>
+  <p> <a href="view/Substraction.jsp">Substraction</a></p>
   <p> <a href="view/Mathematics.jsp">Multiplication</a></p>
   <p> <a href="view/Mathematics.jsp">Division</a></p>
 </div>
