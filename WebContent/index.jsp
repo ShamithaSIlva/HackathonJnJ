@@ -27,15 +27,11 @@ canvas {
   <button class="tablinks" onclick="openCity(event, 'Science')">Science</button>
   <button class="tablinks" onclick="openCity(event, 'Technology')">Technology</button>
   <button class="tablinks" onclick="openCity(event, 'Engineering')">Engineering</button>
-  
-<<<<<<< HEAD
-  <button class="tablinks" onclick="location.href='view/Mathematics.jsp'" type="button">Mathematics</button>
-
-=======
   <button class="tablinks" onclick="openCity(event, 'Mathematics')">Mathematics</button>
->>>>>>> branch 'master' of https://github.com/ShamithaSIlva/HackathonJnJ.git
+
 </div>
 
+<div class="container">
 <div id="Home" class="tabcontent">
   
   <p>Our webpage contains information about health awareness for school children, STEM (Science, Technology, Engineering & Mathematics).
@@ -100,7 +96,7 @@ Always serve breakfast, even if it has to be "on the run." Some ideas for a quic
 </div>
 
 <div id="Science" class="tabcontent">
-<<<<<<< HEAD
+
   <h3>Science facts</h3>
   <h3>Famous Scientist Facts</h3>
   <p>The world we live in today would no doubt be a different place if it weren't for the amazing discoveries produced by this list of famous scientists.
@@ -150,15 +146,10 @@ I do know that I get most joy in life out of my violin."
 "I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. 
 Imagination encircles the world."
 
-Albert Einstein facts</p>
-
-
- 
-
 
 </p>
 </p>
-=======
+
   <h3>Science</h3>
   
   <p> <a href="view/games.jsp">Lets play a game!!!</a></p>
@@ -171,7 +162,7 @@ Albert Einstein facts</p>
   <p> <a href="view/Substraction.jsp">Substraction</a></p>
   <p> <a href="view/Mathematics.jsp">Multiplication</a></p>
   <p> <a href="view/Division.jsp">Division</a></p>
->>>>>>> branch 'master' of https://github.com/ShamithaSIlva/HackathonJnJ.git
+
 </div>
 <div id="Technology" class="tabcontent">
 <h3> Technology Facts </h3>
@@ -194,7 +185,7 @@ These technology facts are perfect for kids, the cool information will keep them
                   <p>A computer program can include as little as a few  instructions to upwards of millions of instructions depending on the complexity  of the program. Modern applications such as word processors, web browsers and  graphic editors take large teams of programmers a long time to complete.</p>
                 </li>
                 <li>
-                  <p>A computer&rsquo;s memory stores numbers in huge amounts of cells  that are addressed and can be quickly accessed by the CPU to perform  calculations. There are two main types of computer memory, ROM (read only  memory) and RAM (random access memory). ROM contains pre-written software and  data that the CPU can only read, while RAM can be accessed and written to at  any time.</p>
+                  <p>A computers memory stores numbers in huge amounts of cells  that are addressed and can be quickly accessed by the CPU to perform  calculations. There are two main types of computer memory, ROM (read only  memory) and RAM (random access memory). ROM contains pre-written software and  data that the CPU can only read, while RAM can be accessed and written to at  any time.</p>
                 </li>
                 <li>
                   <p>Computers interact with a number of different I/O (input/output)  devices to exchange information. These peripheral devices include the keyboard,  mouse, display, hard drive, printer and more.</p>
@@ -282,6 +273,7 @@ What’s the difference between the Internet and the World Wide Web? Find out th
 Research also shows that when engineering is part of elementary instruction, students become more aware of the diverse opportunities for engineering, science, and technical careers—and they are more likely to see these careers as options they could choose.
 
 This finding is important at a time when the number of U.S. college students pursuing engineering education is decreasing. Early introduction to engineering can encourage many capable students—but especially girls and minorities—to consider engineering as a career and take the necessary science and math courses in high school.</p>
+
 <div id="Mathematics" class="tabcontent">
 <h3> Why Is Math So Important for Kids to Learn? </h3>
 <p> Many kids ask their math teacher why learning a particular mathematical concept or skill is important. When helping kids out with their homework, many parents may wonder the same thing. Mark H. Karwan, the Dean of Engineering and Applied Sciences at the University of Buffalo, points out that parental attitudes -- positive or negative -- can influence children’s attitudes about math, and ultimately their performance. Encourage your child to excel in this area, as he’ll have increased functioning and opportunities in his life and career as a result.</p>
@@ -302,7 +294,7 @@ This finding is important at a time when the number of U.S. college students pur
 </div>
 
 
-
+</div>
 
 
 
