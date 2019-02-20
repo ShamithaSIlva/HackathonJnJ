@@ -30,7 +30,7 @@ canvas {
 </div>
 
 <div id="Home" class="tabcontent">
-  <h3>HAShSTEM</h3>
+  
   <p>Our webpage contains information about health awareness for school children, STEM (Science, Technology, Engineering & Mathematics).
      Inside category we are planning to add fun games and after completing each game a fun fact related to the selected category.
   </p>
