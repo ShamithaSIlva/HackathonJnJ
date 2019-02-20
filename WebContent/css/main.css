@@ -231,9 +231,10 @@ main > div#game-over
         width: 200px;
         border-radius: 10px;
         overflow: hidden;
-        color: blue;
+        color: #ffffff;
          font-family: sans-serif;
          font-size: 14px;
-         background-color: lightgreen;
+         background-color: #007d72;
+         font-weight: bold;
          padding: 2px;
     }
