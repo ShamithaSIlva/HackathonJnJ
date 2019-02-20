@@ -107,6 +107,7 @@ Always serve breakfast, even if it has to be "on the run." Some ideas for a quic
 <div id="Science" class="tabcontent">
 
   <h3>Science facts</h3>
+  <a href="http://www.animatedimages.org/cat-scientists-1632.htm"><img src="http://www.animatedimages.org/data/media/1632/animated-scientist-image-0015.gif" border="0" alt="animated-scientist-image-0015" /></a>
   <h3>Famous Scientist Facts</h3>
   <p>The world we live in today would no doubt be a different place if it weren't for the amazing discoveries produced by this list of famous scientists.
    Their ideas, research, experiments, publications and determination are an inspiration to those that follow in their footsteps. 
