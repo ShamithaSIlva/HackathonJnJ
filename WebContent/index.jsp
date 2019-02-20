@@ -24,7 +24,7 @@ canvas {
   <button class="tablinks" onclick="openCity(event, 'Technology')">Technology</button>
   <button class="tablinks" onclick="openCity(event, 'Engineering')">Engineering</button>
   
-  <button onclick="location.href='view/Mathematics.jsp'" type="button">Mathematics</button>
+  <button class="tablinks" onclick="location.href='view/Mathematics.jsp'" type="button">Mathematics</button>
   <button class="tablinks" onclick="openCity(event, 'Games')">Games</button>
 </div>
 

@@ -225,4 +225,15 @@ main > div#game-over
         display: inline-block;
         margin: 10px;
     }
+    
 }
+.tablinks {
+        
+        width: 200px;
+        border-radius: 10px;
+        overflow: hidden;
+        color: blue;
+         font-family: sans-serif;
+         font-size: 14px;
+         background-color: lightgreen;
+    }
