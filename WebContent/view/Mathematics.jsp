@@ -8,7 +8,7 @@
 
         <title>Maths Game</title>
 
-        <link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet" href="../css/main.css" />
     </head>
 
     <body>
@@ -39,7 +39,7 @@
             </div>
         </main>
 
-        <script src="main.js"></script>
+        <script src="../js/Multiplication.js"></script>
 
 </body>
 </html>
