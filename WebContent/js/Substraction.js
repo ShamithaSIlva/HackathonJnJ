@@ -47,7 +47,7 @@ var Counter = {
             {
                 do
                 {
-                    this.WrongAnswer = this.GenerateRandomNumber(9) + this.GenerateRandomNumber(9);
+                    this.WrongAnswer = this.GenerateRandomNumber(9) - this.GenerateRandomNumber(9);
                 } while ( answers.indexOf(this.WrongAnswer) > -1 );
 
                 this.AddContentToElement( "ul#choices > li:nth-of-type(" + index + ")", this.WrongAnswer );
@@ -71,10 +71,10 @@ var Counter = {
     {
         this.FirstNumber = this.GenerateRandomNumber(9);
         this.SecondNumber = this.GenerateRandomNumber(9);
-        this.CorrectAnswer = this.FirstNumber + this.SecondNumber;
+        this.CorrectAnswer = this.FirstNumber - this.SecondNumber;
         this.CorrectPosition = this.GenerateRandomNumber(3);
         this.ChangeStyle("section#question", "style", "height:auto;");
-        this.AddContentToElement("section#question", this.FirstNumber + "+" + this.SecondNumber);
+        this.AddContentToElement("section#question", this.FirstNumber + "-" + this.SecondNumber);
         this.AddContentToElement( "ul#choices > li:nth-of-type(" + this.CorrectPosition + ")", this.CorrectAnswer );
         this.LoopThroughElements();
     },

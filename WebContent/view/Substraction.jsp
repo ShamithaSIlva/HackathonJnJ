@@ -39,7 +39,7 @@
             </div>
         </main>
 
-        <script src="../js/Addition.js"></script>
+        <script src="../js/Substraction.js"></script>
 
 </body>
 </html>
