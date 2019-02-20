@@ -25,7 +25,7 @@ canvas {
   <button class="tablinks" onclick="openCity(event, 'Technology')">Technology</button>
   <button class="tablinks" onclick="openCity(event, 'Engineering')">Engineering</button>
   
-  <button class="tablinks" onclick="location.href='view/Mathematics.jsp'" type="button">Mathematics</button>
+  <button class="tablinks" onclick="openCity(event, 'Mathematics')">Mathematics</button>
   <button class="tablinks" onclick="openCity(event, 'Games')">Games</button>
 </div>
 
@@ -129,7 +129,16 @@ To prevent dehydration, encourage children to drink fluid regularly during physi
 <div id="Science" class="tabcontent">
   <h3>Science</h3>
   
-  <p> <a href="view/games.jsp">HTML Images</a></p>
+  <p> <a href="view/games.jsp">Lets play a game!!!</a></p>
+</div>
+
+<div id="Mathematics" class="tabcontent">
+  <h3>Mathematics</h3>
+  
+  <p> <a href="view/Mathematics.jsp">Addition</a></p>
+  <p> <a href="view/Mathematics.jsp">Substraction</a></p>
+  <p> <a href="view/Mathematics.jsp">Multiplication</a></p>
+  <p> <a href="view/Mathematics.jsp">Division</a></p>
 </div>
 
 <script>
