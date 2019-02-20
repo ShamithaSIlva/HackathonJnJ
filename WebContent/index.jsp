@@ -248,6 +248,29 @@ What’s the difference between the Internet and the World Wide Web? Find out th
 
 </ul>
 </div>
+<div id="Engineering" class="tabcontent">
+<h3> Introducing children to engineering in elementary school brings a host of benefits. </h3>
+<p> If you’ve ever watched children at play, you know they’re fascinated with building things—and with taking things apart to see how they work. In other words, children are natural-born engineers. When children engineer in a school setting, research suggests several positive results: </p>
+<h3> Building Science and Math Skills </h3>
+<p> Engineering calls for children to apply what they know about science and math—and their learning is enhanced as a result. At the same time, because engineering activities are based on real-world technologies and problems, they help children see how disciplines like math and science are relevant to their lives. </p>
+<h3> Classroom Equity </h3>
+<p> Research suggests that engineering activities help build classroom equity. The engineering design process removes the stigma from failure; instead, failure is an important part of the problem-solving process and a positive way to learn. It is equally important that there’s no single “right” answer in engineering; one problem can have many solutions. When classroom instruction includes engineering, all students can see themselves as successful. </p>
+<h3> 21st Century Skills</h3>
+<p> Hands-on, project-based learning is the essence of engineering. As groups of students work together to answer questions like, “How large should I make the canopy of this parachute?” or, “What material should I use for the blades of my windmill?” they collaborate, think critically and creatively, and communicate with one another.</p>
+<h3> Career Success </h3>
+<p> Classroom engineering activities often require students to work in teams where they must collaborate and communicate effectively. In the 21st century, these skills will be critical for career success in any field.
+
+Research also shows that when engineering is part of elementary instruction, students become more aware of the diverse opportunities for engineering, science, and technical careers—and they are more likely to see these careers as options they could choose.
+
+This finding is important at a time when the number of U.S. college students pursuing engineering education is decreasing. Early introduction to engineering can encourage many capable students—but especially girls and minorities—to consider engineering as a career and take the necessary science and math courses in high school.</p>
+
+
+
+
+
+
+
+
 
 
 <script>
