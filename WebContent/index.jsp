@@ -28,8 +28,12 @@ canvas {
   <button class="tablinks" onclick="openCity(event, 'Technology')">Technology</button>
   <button class="tablinks" onclick="openCity(event, 'Engineering')">Engineering</button>
   
+<<<<<<< HEAD
   <button class="tablinks" onclick="location.href='view/Mathematics.jsp'" type="button">Mathematics</button>
 
+=======
+  <button class="tablinks" onclick="openCity(event, 'Mathematics')">Mathematics</button>
+>>>>>>> branch 'master' of https://github.com/ShamithaSIlva/HackathonJnJ.git
 </div>
 
 <div id="Home" class="tabcontent">
@@ -96,6 +100,7 @@ Always serve breakfast, even if it has to be "on the run." Some ideas for a quic
 </div>
 
 <div id="Science" class="tabcontent">
+<<<<<<< HEAD
   <h3>Science facts</h3>
   <h3>Famous Scientist Facts</h3>
   <p>The world we live in today would no doubt be a different place if it weren't for the amazing discoveries produced by this list of famous scientists.
@@ -153,6 +158,20 @@ Albert Einstein facts</p>
 
 </p>
 </p>
+=======
+  <h3>Science</h3>
+  
+  <p> <a href="view/games.jsp">Lets play a game!!!</a></p>
+</div>
+
+<div id="Mathematics" class="tabcontent">
+  <h3>Mathematics</h3>
+  
+  <p> <a href="view/Addition.jsp">Addition</a></p>
+  <p> <a href="view/Substraction.jsp">Substraction</a></p>
+  <p> <a href="view/Mathematics.jsp">Multiplication</a></p>
+  <p> <a href="view/Division.jsp">Division</a></p>
+>>>>>>> branch 'master' of https://github.com/ShamithaSIlva/HackathonJnJ.git
 </div>
 <div id="Technology" class="tabcontent">
 <h3> Technology Facts </h3>
