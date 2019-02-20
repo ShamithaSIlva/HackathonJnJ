@@ -56,14 +56,18 @@ canvas {
 Always serve breakfast, even if it has to be "on the run." Some ideas for a quick, healthy breakfast include:
 <ul>
 <li>Fruit</li>
+<a href="http://www.animatedimages.org/cat-fruits-108.htm"><img src="http://www.animatedimages.org/data/media/108/graphics-fruit-267124.gif" border="0" alt="graphics-fruit-267124" /></a>
 
 <li>Milk</li>
-
+<a href="http://www.animatedimages.org/cat-milk-1689.htm"><img src="http://www.animatedimages.org/data/media/1689/animated-milk-image-0026.gif" border="0" alt="animated-milk-image-0026" /></a>
 <li>Bagel</li>
+<a href="http://www.animatedimages.org/cat-donuts-471.htm"><img src="http://www.animatedimages.org/data/media/471/animated-donut-image-0010.gif" border="0" alt="animated-donut-image-0010" /></a>
 
 <li>Cheese toast</li>
+<a href="http://www.animatedimages.org/cat-cheese-540.htm"><img src="http://www.animatedimages.org/data/media/540/animated-cheese-image-0023.gif" border="0" alt="animated-cheese-image-0023" /></a>
 
 <li>Cereal</li>
+<a href="http://www.animatedimages.org/cat-grain-1231.htm"><img src="http://www.animatedimages.org/data/media/1231/animated-grain-image-0008.gif" border="0" alt="animated-grain-image-0008" /></a>
 
 <li>Peanut butter sandwich </li>
 </ul>
@@ -71,6 +75,7 @@ Always serve breakfast, even if it has to be "on the run." Some ideas for a quic
 <h3>Take advantage of big appetites after school by serving healthy snacks, such as:</h3>
 <ul>
 <li>Fruit</li>
+<a href="http://www.animatedimages.org/cat-fruits-108.htm"><img src="http://www.animatedimages.org/data/media/108/graphics-vegetables-744232.gif" border="0" alt="graphics-vegetables-744232" /></a>
 
 <li>Vegetables and dip</li>
 
@@ -154,14 +159,18 @@ Imagination encircles the world."
   
 </div>
 
-<div id="Mathematics" class="tabcontent">
+<div id="Mathematics" class="tabcontent" >
   <h1>Mathematics</h1>
   
   <a href="http://www.animatedimages.org/cat-children-545.htm"><img src="http://www.animatedimages.org/data/media/545/animated-child-image-0116.gif" border="0" alt="animated-child-image-0116" /></a><a href="http://www.animatedimages.org/cat-children-545.htm"><img src="http://www.animatedimages.org/data/media/545/animated-child-image-0116.gif" border="0" alt="animated-child-image-0116" /></a>
   <p><h3> <a href="view/Addition.jsp">Addition Fun Games</a></h3></p>
+  <a href="http://www.animatedimages.org/cat-school-276.htm"><img src="http://www.animatedimages.org/data/media/276/animated-school-image-0025.gif" border="0" alt="animated-school-image-0025" /></a>
   <p> <h3><a href="view/Substraction.jsp">Substraction Fun Games</a></h3></p>
+  <a href="http://www.animatedimages.org/cat-school-276.htm"><img src="http://www.animatedimages.org/data/media/276/animated-school-image-0050.gif" border="0" alt="animated-school-image-0050" /></a>
   <p> <h3><a href="view/Mathematics.jsp">Multiplication Fun Games</a></h3></p>
+  <a href="http://www.animatedimages.org/cat-school-276.htm"><img src="http://www.animatedimages.org/data/media/276/animated-school-image-0083.gif" border="0" alt="animated-school-image-0083" /></a>
   <p> <h3><a href="view/Division.jsp">Division Fun Games</a></h3></p>
+  <a href="http://www.animatedimages.org/cat-school-276.htm"><img src="http://www.animatedimages.org/data/media/276/animated-school-image-0070.gif" border="0" alt="animated-school-image-0070" /></a>
   
   <h3> Why Is Math So Important for Kids to Learn? </h3>
 <p> Many kids ask their math teacher why learning a particular mathematical concept or skill is important. When helping kids out with their homework, many parents may wonder the same thing. Mark H. Karwan, the Dean of Engineering and Applied Sciences at the University of Buffalo, points out that parental attitudes -- positive or negative -- can influence childrens attitudes about math, and ultimately their performance. Encourage your child to excel in this area, as he’ll have increased functioning and opportunities in his life and career as a result.</p>
