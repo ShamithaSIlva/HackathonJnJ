@@ -15,7 +15,8 @@ canvas {
 <script src="js/jquery-2.2.4.min.js"></script>
 <script src="js/main.js"></script>
 </head>
-<body>
+<body background="images/STEM-01-1.png" style="opacity :0.5;">
+
 <h1>HAShSTEM(Health Awareness for School children with Science, Technology ,Engineering & Mathematics)</h1>
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Home')" id="defaultOpen">Home</button>
