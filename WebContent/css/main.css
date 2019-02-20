@@ -235,4 +235,5 @@ main > div#game-over
          font-family: sans-serif;
          font-size: 14px;
          background-color: lightgreen;
+         padding: 2px;
     }
