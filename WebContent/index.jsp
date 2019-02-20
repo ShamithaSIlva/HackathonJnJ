@@ -15,7 +15,11 @@
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Home')" id="defaultOpen">Home</button>
   <button class="tablinks" onclick="openCity(event, 'HealthAwareness')">Health Awareness</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+  <button class="tablinks" onclick="openCity(event, 'Science')">Science</button>
+  <button class="tablinks" onclick="openCity(event, 'Technology')">Technology</button>
+  <button class="tablinks" onclick="openCity(event, 'Engineering')">Engineering</button>
+  <button class="tablinks" onclick="openCity(event, 'Mathematics')">Mathematics</button>
+  <button class="tablinks" onclick="openCity(event, 'Games')">Games</button>
 </div>
 
 <div id="Home" class="tabcontent">
@@ -114,8 +118,8 @@ To prevent dehydration, encourage children to drink fluid regularly during physi
   </p>
 </div>
 
-<div id="Tokyo" class="tabcontent">
-  <h3>Tokyo</h3>
+<div id="Science" class="tabcontent">
+  <h3>Science</h3>
   <p>Tokyo is the capital of Japan</p>
 </div>
 
