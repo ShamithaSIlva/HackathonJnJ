@@ -116,7 +116,7 @@ To prevent dehydration, encourage children to drink fluid regularly during physi
 
 <div id="Tokyo" class="tabcontent">
   <h3>Tokyo</h3>
-  <p>Tokyo is the capital of Japan.</p>
+  <p>Tokyo is the capital of Japan</p>
 </div>
 
 <script>
