@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> branch 'master' of https://github.com/ShamithaSIlva/HackathonJnJ.git
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
@@ -155,10 +151,5 @@ document.getElementById("defaultOpen").click();
 
 </script>
 
-<<<<<<< HEAD
 </body>
-
-=======
-</body>
->>>>>>> branch 'master' of https://github.com/ShamithaSIlva/HackathonJnJ.git
 </html>
