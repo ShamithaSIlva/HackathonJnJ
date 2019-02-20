@@ -249,7 +249,7 @@ What’s the difference between the Internet and the World Wide Web? Find out th
 </ul>
 </div>
 <div id="Engineering" class="tabcontent">
-<h3> Introducing children to engineering in elementary school brings a host of benefits. </h3>
+<h3> Introducing children to engineering in elementary school brings a host of benefits </h3>
 <p> If you’ve ever watched children at play, you know they’re fascinated with building things—and with taking things apart to see how they work. In other words, children are natural-born engineers. When children engineer in a school setting, research suggests several positive results: </p>
 <h3> Building Science and Math Skills </h3>
 <p> Engineering calls for children to apply what they know about science and math—and their learning is enhanced as a result. At the same time, because engineering activities are based on real-world technologies and problems, they help children see how disciplines like math and science are relevant to their lives. </p>
