@@ -33,7 +33,10 @@ canvas {
 
 <div class="container">
 <div id="Home" class="tabcontent">
-  
+  <a href="http://www.animatedimages.org/cat-scientists-1632.htm"><img src="http://www.animatedimages.org/data/media/1632/animated-scientist-image-0011.gif" border="0" alt="animated-scientist-image-0011" /></a>
+  <a href="http://www.animatedimages.org/cat-computer-56.htm"><img src="http://www.animatedimages.org/data/media/56/animated-computer-image-0030.gif" border="0" alt="animated-computer-image-0030" /></a>
+  <a href="http://www.animatedimages.org/cat-cars-67.htm"><img src="http://www.animatedimages.org/data/media/67/animated-car-image-0099.gif" border="0" alt="animated-car-image-0099" /></a>
+  <a href="http://www.animatedimages.org/cat-numbers-712.htm"><img src="http://www.animatedimages.org/data/media/712/animated-number-image-0199.gif" border="0" alt="animated-number-image-0199" /></a>
   <p>Our webpage contains information about health awareness for school children, STEM (Science, Technology, Engineering & Mathematics).
      Inside category we are planning to add fun games and after completing each game a fun fact related to the selected category.
   </p>
@@ -114,6 +117,9 @@ Always serve breakfast, even if it has to be "on the run." Some ideas for a quic
 
 <h2><a href="view/games.jsp">Gravity Game</a></h2>
 <h3> Albert Einstein Facts </h3>
+<a href="http://www.animatedimages.org/cat-scientists-1632.htm"><img src="http://www.animatedimages.org/data/media/1632/animated-scientist-image-0012.gif" border="0" alt="animated-scientist-image-0012" /></a>
+<a href="http://www.animatedimages.org/cat-scientists-1632.htm"><img src="http://www.animatedimages.org/data/media/1632/animated-scientist-image-0022.gif" border="0" alt="animated-scientist-image-0022" /></a>
+<a href="http://www.animatedimages.org/cat-scientists-1632.htm"><img src="http://www.animatedimages.org/data/media/1632/animated-scientist-image-0024.gif" border="0" alt="animated-scientist-image-0024" /></a>
 <p> 
 Albert Einstein is perhaps the most famous scientist of all time. Both his image and brilliant work on theoretical physics live on today and he serves as an inspiration to young scientists around the world.
 
@@ -198,7 +204,8 @@ Technology is a fun topic that covers a wide range of interesting areas includin
 These technology facts are perfect for kids, the cool information will keep them interested as they learn some important ideas and concepts along the way.
 <h3> Computer Facts</h3>
 
-
+<a href="http://www.animatedimages.org/cat-computer-56.htm"><img src="http://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" border="0" alt="animated-computer-image-0116" /></a>
+<a href="http://www.animatedimages.org/cat-computer-56.htm"><img src="http://www.animatedimages.org/data/media/56/animated-computer-image-0494.gif" border="0" alt="animated-computer-image-0494" /></a>
       
               <ul class="style33">
                 <li>
@@ -224,6 +231,7 @@ These technology facts are perfect for kids, the cool information will keep them
                 </li>
               </ul>
             <h3>Cell Phone Facts</h3>
+            <a href="http://www.animatedimages.org/cat-mobile-phones-326.htm"><img src="http://www.animatedimages.org/data/media/326/animated-mobile-phone-image-0007.gif" border="0" alt="animated-mobile-phone-image-0007" /></a>
             <p> Read a range of great cell phone facts and mobile phone information. Find out more about interesting iPhone apps and enjoy the fun tech info for kids.
 
 What kind of features do modern cell phones have and how do we use them to improve our lives? Find out the answer to this and many more mobile phone related questions you may have.
@@ -249,6 +257,7 @@ What kind of features do modern cell phones have and how do we use them to impro
                   <p>Despite all the positive benefits of cell phones, there are  also some negative side effects which include the dangers of cell phones being  used while driving, cell phones being used for harassment and students cheating  on tests by using their cell phone to access information. Cell phones are often  banned in classrooms or other school locations due to the distractions they can  cause.</p>
 </ul>
 <h3>Internet Facts</h3>
+<a href="http://www.animatedimages.org/cat-internet-145.htm"><img src="http://www.animatedimages.org/data/media/145/animated-internet-image-0030.gif" border="0" alt="animated-internet-image-0030" /></a>
 <p>
 Learn some great Internet facts and interesting information about the World Wide Web.
 
@@ -285,6 +294,7 @@ What’s the difference between the Internet and the World Wide Web? Find out th
 </ul>
 </div>
 <div id="Engineering" class="tabcontent">
+<a href="http://www.animatedimages.org/cat-airplanes-71.htm"><img src="http://www.animatedimages.org/data/media/71/animated-aeroplane-image-0050.gif" border="0" alt="animated-aeroplane-image-0050" /></a>
 <h3> Introducing children to engineering in elementary school brings a host of benefits </h3>
 <p> If you’ve ever watched children at play, you know they’re fascinated with building things—and with taking things apart to see how they work. In other words, children are natural-born engineers. When children engineer in a school setting, research suggests several positive results: </p>
 <h3> Building Science and Math Skills </h3>
