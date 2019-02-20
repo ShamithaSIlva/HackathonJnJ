@@ -1,10 +1,16 @@
-<<<<<<< HEAD
+
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="ISO-8859-1">
+<style>
+canvas {
+    border:1px solid #d3d3d3;
+    background-color: #f1f1f1;
+}
+</style>
 <title>HashSTEM</title>
 <link rel="stylesheet" type="text/css" href="css/main.css">
 <script src="js/jquery-2.2.4.min.js"></script>
@@ -27,6 +33,7 @@
   <p>Our webpage contains information about health awareness for school children, STEM (Science, Technology, Engineering & Mathematics).
      Inside category we are planning to add fun games and after completing each game a fun fact related to the selected category.
   </p>
+  
 </div>
 
 <div id="HealthAwareness" class="tabcontent">
@@ -120,7 +127,8 @@ To prevent dehydration, encourage children to drink fluid regularly during physi
 
 <div id="Science" class="tabcontent">
   <h3>Science</h3>
-  <p>Tokyo is the capital of Japan</p>
+  
+  <p> <a href="view/games.jsp">HTML Images</a></p>
 </div>
 
 <script>
@@ -140,25 +148,10 @@ function openCity(evt, cityName) {
 
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
+
+
 </script>
 
 </body>
-=======
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="ISO-8859-1">
-<title>HashSTEM</title>
-<link rel="stylesheet" type="text/css" href="css/main.css">
-<script src="js/jquery-2.2.4.min.js"></script>
-<script src="js/main.js"></script>
-</head>
-<body>
 
-<a href=""></a>
-
-</body>
->>>>>>> branch 'master' of https://github.com/ShamithaSIlva/HackathonJnJ.git
 </html>
