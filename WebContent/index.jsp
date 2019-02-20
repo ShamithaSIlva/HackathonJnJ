@@ -43,6 +43,7 @@ canvas {
 <div id="HealthAwareness" class="tabcontent">
   <h3>Nutrition: School-Age</h3>
   
+  
   <p>School-age children (ages 8 to 11) need healthy foods and nutritious snacks. 
   They have a consistent but slow rate of growth and usually eat four to five times a day (including snacks). 
   Many food habits, likes, and dislikes are established during this time. 
@@ -104,9 +105,9 @@ Always serve breakfast, even if it has to be "on the run." Some ideas for a quic
    Covering a broad range of scientific fields such as biology, physics, astronomy and chemistry, these men and women have pushed the world of science forward, 
    allowing the human race to answer seemingly impossible questions while at the same time opening the door to new fields of research and discovery. 
    Follow the links and read more about your favorite inventors, chemists, biologists and physicists.
- 
+ </p><br>
 
-<a href="view/games.jsp">HTML Images</a>
+<h2><a href="view/games.jsp">Gravity Game</a></h2>
 <h3> Albert Einstein Facts </h3>
 <p> 
 Albert Einstein is perhaps the most famous scientist of all time. Both his image and brilliant work on theoretical physics live on today and he serves as an inspiration to young scientists around the world.
@@ -150,18 +151,34 @@ Imagination encircles the world."
 </p>
 </p>
 
-  <h3>Science</h3>
   
-  <p> <a href="view/games.jsp">Lets play a game!!!</a></p>
 </div>
 
 <div id="Mathematics" class="tabcontent">
-  <h3>Mathematics</h3>
+  <h1>Mathematics</h1>
   
-  <p> <a href="view/Addition.jsp">Addition</a></p>
-  <p> <a href="view/Substraction.jsp">Substraction</a></p>
-  <p> <a href="view/Mathematics.jsp">Multiplication</a></p>
-  <p> <a href="view/Division.jsp">Division</a></p>
+  
+  <p><h3> <a href="view/Addition.jsp">Addition Fun Games</a></h3></p>
+  <p> <h3><a href="view/Substraction.jsp">Substraction Fun Games</a></h3></p>
+  <p> <h3><a href="view/Mathematics.jsp">Multiplication Fun Games</a></h3></p>
+  <p> <h3><a href="view/Division.jsp">Division Fun Games</a></h3></p>
+  
+  <h3> Why Is Math So Important for Kids to Learn? </h3>
+<p> Many kids ask their math teacher why learning a particular mathematical concept or skill is important. When helping kids out with their homework, many parents may wonder the same thing. Mark H. Karwan, the Dean of Engineering and Applied Sciences at the University of Buffalo, points out that parental attitudes -- positive or negative -- can influence childrens attitudes about math, and ultimately their performance. Encourage your child to excel in this area, as he’ll have increased functioning and opportunities in his life and career as a result.</p>
+<h3> Maths Glorious History</h3>
+<p> In the 1920s, the teaching of algebra and geometry in the United States was regarded as an intellectual luxury.In fact, the Massachusetts Commissioner of Education referred to algebra as a useless subject, according to author David Klein in his paper A Brief History of of American K-12 Mathematics Education in the 20th Century. During this time, students were taught basic math skills that had immediate practical applications. After World War II, policymakers began to advocate for a stronger math curriculum, a movement that increased with the space race of the 1950s. In the 21st century, schools are working to increase students’ higher math skills so that the citizens of the United States can be competitive in a global economy. </p>
+<h3> Teaches Logical and Critical Thinking </h3>
+<p> Math teaches logic and order. You can expect a mathematical equation to have a predictable outcome, and precise steps must be followed in order to attain that result. The discipline of mind that children develop in math class can carry over into everyday life. Companies know this, as some businesses will hire math majors based on the presumption that students who are good at math have learned how to think. Math can also provide a vehicle through which critical-thinking skills are put into practice and refined. An example of mathematical critical thinking is when students are required to explain how they arrived at a solution to a complex problem or to describe the ideas behind a formula or procedure.</p>
+
+<h3> Teaches Life Skills </h3>
+<p> It is next to impossible to live an independent life without basic math skills. Children begin to learn about money in the early elementary grades, and in later grades can calculate percentages and fractions. People must have these skills in order to follow a recipe, evaluate whether or not an item on clearance is a good deal and manage a budget, among other things. Financial analyst Mike Walker points out that kids must be proficient at math in order to buy a car without getting taken for the wrong kind of ride. </p>
+<h3> Supports Continuing Education and Careers </h3>
+<p> Even entry-level jobs in fields seemingly unrelated to mathematics require math skills. Cashiers must be able to count money accurately, while a customer service representative may need to be able to discuss a discrepancy in a customer’s bill. Students who are skilled at math and who seek a higher degree will find that high-paying careers such as engineering, medicine and research become available to them. Students who are not interested in these careers must nonetheless have advanced math skills, as they are required to graduate with a bachelor’s degree in any field. Students who have better math skills than their peers may obtain scholarships based on their superior performance on assessment tests such as the SAT and ACT. </p>
+
+<h3> Your Daily Math</h3>
+
+<p> Students may ask why math is necessary, but quality math instruction must ensure that this question is asked infrequently. Instruction should incorporate techniques that are designed to demonstrate to children the relevancy of math to their daily lives, the world around them and their future careers. Math teachers must strive to provide a real-world context for the skills that they teach and must tell students the rationale behind the concept they are teaching.</p>
+  
 
 </div>
 <div id="Technology" class="tabcontent">
@@ -274,24 +291,7 @@ Research also shows that when engineering is part of elementary instruction, stu
 
 This finding is important at a time when the number of U.S. college students pursuing engineering education is decreasing. Early introduction to engineering can encourage many capable students—but especially girls and minorities—to consider engineering as a career and take the necessary science and math courses in high school.</p>
 
-<div id="Mathematics" class="tabcontent">
-<h3> Why Is Math So Important for Kids to Learn? </h3>
-<p> Many kids ask their math teacher why learning a particular mathematical concept or skill is important. When helping kids out with their homework, many parents may wonder the same thing. Mark H. Karwan, the Dean of Engineering and Applied Sciences at the University of Buffalo, points out that parental attitudes -- positive or negative -- can influence children’s attitudes about math, and ultimately their performance. Encourage your child to excel in this area, as he’ll have increased functioning and opportunities in his life and career as a result.</p>
-<h3> Maths Glorious History</h3>
-<p> In the 1920s, the teaching of algebra and geometry in the United States was regarded as an “intellectual luxury.” In fact, the Massachusetts Commissioner of Education referred to algebra as a “useless subject,” according to author David Klein in his paper "A Brief History of of American K-12 Mathematics Education in the 20th Century." During this time, students were taught basic math skills that had immediate practical applications. After World War II, policymakers began to advocate for a stronger math curriculum, a movement that increased with the space race of the 1950s. In the 21st century, schools are working to increase students’ higher math skills so that the citizens of the United States can be competitive in a global economy. </p>
-<h3> Teaches Logical and Critical Thinking </h3>
-<p> Math teaches logic and order. You can expect a mathematical equation to have a predictable outcome, and precise steps must be followed in order to attain that result. The discipline of mind that children develop in math class can carry over into everyday life. Companies know this, as some businesses will hire math majors based on the presumption that students who are good at math have learned how to think. Math can also provide a vehicle through which critical-thinking skills are put into practice and refined. An example of mathematical critical thinking is when students are required to explain how they arrived at a solution to a complex problem or to describe the ideas behind a formula or procedure.</p>
 
-<h3> Teaches Life Skills </h3>
-<p> It is next to impossible to live an independent life without basic math skills. Children begin to learn about money in the early elementary grades, and in later grades can calculate percentages and fractions. People must have these skills in order to follow a recipe, evaluate whether or not an item on clearance is a good deal and manage a budget, among other things. Financial analyst Mike Walker points out that kids must be proficient at math in order to buy a car without getting taken for the wrong kind of ride. </p>
-<h3> Supports Continuing Education and Careers </h3>
-<p> Even entry-level jobs in fields seemingly unrelated to mathematics require math skills. Cashiers must be able to count money accurately, while a customer service representative may need to be able to discuss a discrepancy in a customer’s bill. Students who are skilled at math and who seek a higher degree will find that high-paying careers such as engineering, medicine and research become available to them. Students who are not interested in these careers must nonetheless have advanced math skills, as they are required to graduate with a bachelor’s degree in any field. Students who have better math skills than their peers may obtain scholarships based on their superior performance on assessment tests such as the SAT and ACT. </p>
-
-<h3> Your Daily Math</h3>
-
-<p> Students may ask why math is necessary, but quality math instruction must ensure that this question is asked infrequently. Instruction should incorporate techniques that are designed to demonstrate to children the relevancy of math to their daily lives, the world around them and their future careers. Math teachers must strive to provide a real-world context for the skills that they teach and must tell students the rationale behind the concept they are teaching.</p>
-
-</div>
 
 
 </div>
