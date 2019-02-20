@@ -107,7 +107,7 @@ Parents are encouraged to provide recommended serving sizes for children.
 
 Parents are encouraged to limit children’s video, television watching, and computer use to less than two hours daily and replace the sedentary activities with activities that require more movement.
 
-Children and adolescents need at least 60 minutes of moderate to vigorous physical activity on most days to have good health and fitness and for healthy weight during growth.
+Children and adolescents need at least 60 minutes of moderate to vigorous physical activity on most days to have good health and fitness and for healthy weight during growth
 
 To prevent dehydration, encourage children to drink fluid regularly during physical activity and to drink several glasses of water or other fluid after the physical activity is completed.
   </p>
