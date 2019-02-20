@@ -17,7 +17,7 @@ canvas {
 </head>
 <body class="bodyClass">
 
-<h1>HAShSTEM(Health Awareness for School children with Science, Technology ,Engineering & Mathematics)</h1>
+<h1>HAShSTEM</h1>
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Home')" id="defaultOpen">Home</button>
   <button class="tablinks" onclick="openCity(event, 'HealthAwareness')">Health Awareness</button>
