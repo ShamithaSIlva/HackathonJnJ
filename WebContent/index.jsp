@@ -300,8 +300,10 @@ What’s the difference between the Internet and the World Wide Web? Find out th
 <h3> Building Science and Math Skills </h3>
 <p> Engineering calls for children to apply what they know about science and math—and their learning is enhanced as a result. At the same time, because engineering activities are based on real-world technologies and problems, they help children see how disciplines like math and science are relevant to their lives. </p>
 <h3> Classroom Equity </h3>
+<a href="http://www.animatedimages.org/cat-school-276.htm"><img src="http://www.animatedimages.org/data/media/276/animated-school-image-0031.gif" border="0" alt="animated-school-image-0031" /></a>
 <p> Research suggests that engineering activities help build classroom equity. The engineering design process removes the stigma from failure; instead, failure is an important part of the problem-solving process and a positive way to learn. It is equally important that there’s no single “right” answer in engineering; one problem can have many solutions. When classroom instruction includes engineering, all students can see themselves as successful. </p>
 <h3> 21st Century Skills</h3>
+<a href="http://www.animatedimages.org/cat-computer-56.htm"><img src="http://www.animatedimages.org/data/media/56/animated-computer-image-0204.gif" border="0" alt="animated-computer-image-0204" /></a>
 <p> Hands-on, project-based learning is the essence of engineering. As groups of students work together to answer questions like, “How large should I make the canopy of this parachute?” or, “What material should I use for the blades of my windmill?” they collaborate, think critically and creatively, and communicate with one another.</p>
 <h3> Career Success </h3>
 <p> Classroom engineering activities often require students to work in teams where they must collaborate and communicate effectively. In the 21st century, these skills will be critical for career success in any field.
