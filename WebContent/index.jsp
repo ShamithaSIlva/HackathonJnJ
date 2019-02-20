@@ -157,7 +157,7 @@ Imagination encircles the world."
 <div id="Mathematics" class="tabcontent">
   <h1>Mathematics</h1>
   
-  
+  <a href="http://www.animatedimages.org/cat-children-545.htm"><img src="http://www.animatedimages.org/data/media/545/animated-child-image-0116.gif" border="0" alt="animated-child-image-0116" /></a><a href="http://www.animatedimages.org/cat-children-545.htm"><img src="http://www.animatedimages.org/data/media/545/animated-child-image-0116.gif" border="0" alt="animated-child-image-0116" /></a>
   <p><h3> <a href="view/Addition.jsp">Addition Fun Games</a></h3></p>
   <p> <h3><a href="view/Substraction.jsp">Substraction Fun Games</a></h3></p>
   <p> <h3><a href="view/Mathematics.jsp">Multiplication Fun Games</a></h3></p>
