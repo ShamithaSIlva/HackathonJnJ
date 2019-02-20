@@ -11,7 +11,7 @@
 </head>
 <body>
 
-<a href=""></a>
+<a href="view/gameOne.jsp">link</a>
 
 </body>
 </html>
